@@ -1,4 +1,4 @@
-# Bigenner-GitHub-Task
+# Beginner-GitHub-Task
 
 ### Get familiarized with basic GitHub terminal commands and terms
   - Fork
